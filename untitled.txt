@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Pahari Kitchen & Restaurant</title>
+  <style>
+    body { font-family: Arial; margin: 0; background: #f8f8f8; }
+    header { background: #8b0000; color: white; padding: 20px; text-align: center; }
+    section { padding: 20px; }
+    .menu { background: white; padding: 15px; margin: 10px 0; }
+    footer { background: #222; color: white; text-align: center; padding: 10px; }
+    button { background: green; color: white; padding: 10px; border: none; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Pahari Kitchen & Restaurant</h1>
+  <p>Pure Pahari Taste | Home Delivery Available</p>
+</header>
+
+<section>
+  <h2>About Us</h2>
+  <p>We serve delicious and hygienic Pahari food with love. Online orders available.</p>
+</section>
+
+<section class="menu">
+  <h2>Our Menu</h2>
+  <ul>
+    <li>Chana Madra</li>
+    <li>Siddu</li>
+    <li>Rajma Chawal</li>
+    <li>Chilli Paneer</li>
+    <li>Veg Thali</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Order Now</h2>
+  <p>Call us on: <b>8894497734</b></p>
+  <button>Place Order on WhatsApp</button>
+</section>
+
+<footer>
+  <p>© 2026 Pahari Kitchen & Restaurant</p>
+</footer>
+
+</body>
+</html>
+
